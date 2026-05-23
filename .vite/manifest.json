@@ -1,0 +1,87 @@
+{
+  "index.html": {
+    "file": "assets/index-Dy_Ybaxc.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-Iu0RltCu.css"
+    ],
+    "assets": [
+      "assets/activity-BripO9VC.png",
+      "assets/logo1-o_VzJ11u.png",
+      "assets/logo2-CM9q86NS.png",
+      "assets/logo1-dark-D22UL5Jg.png",
+      "assets/logo2-dark-BNzULp_8.png",
+      "assets/b1-BygyPBjp.jpeg",
+      "assets/b2-uh-2lslB.jpeg",
+      "assets/b3-Dsr0HnRB.jpeg",
+      "assets/b4-BEAZagP6.jpeg",
+      "assets/b5-DdUgK3PF.jpeg",
+      "assets/b6-GsF3RI0k.jpeg",
+      "assets/b7-dddTyzB0.jpeg",
+      "assets/b9-AgslZG6f.jpeg",
+      "assets/b28-CnHQTYdb.jpeg"
+    ]
+  },
+  "src/assets/activity/activity.png": {
+    "file": "assets/activity-BripO9VC.png",
+    "src": "src/assets/activity/activity.png"
+  },
+  "src/assets/avatar/default-avatar.png": {
+    "file": "assets/activity-BripO9VC.png",
+    "src": "src/assets/activity/activity.png"
+  },
+  "src/assets/board/b1.jpeg": {
+    "file": "assets/b1-BygyPBjp.jpeg",
+    "src": "src/assets/board/b1.jpeg"
+  },
+  "src/assets/board/b2.jpeg": {
+    "file": "assets/b2-uh-2lslB.jpeg",
+    "src": "src/assets/board/b2.jpeg"
+  },
+  "src/assets/board/b28.jpeg": {
+    "file": "assets/b28-CnHQTYdb.jpeg",
+    "src": "src/assets/board/b28.jpeg"
+  },
+  "src/assets/board/b3.jpeg": {
+    "file": "assets/b3-Dsr0HnRB.jpeg",
+    "src": "src/assets/board/b3.jpeg"
+  },
+  "src/assets/board/b4.jpeg": {
+    "file": "assets/b4-BEAZagP6.jpeg",
+    "src": "src/assets/board/b4.jpeg"
+  },
+  "src/assets/board/b5.jpeg": {
+    "file": "assets/b5-DdUgK3PF.jpeg",
+    "src": "src/assets/board/b5.jpeg"
+  },
+  "src/assets/board/b6.jpeg": {
+    "file": "assets/b6-GsF3RI0k.jpeg",
+    "src": "src/assets/board/b6.jpeg"
+  },
+  "src/assets/board/b7.jpeg": {
+    "file": "assets/b7-dddTyzB0.jpeg",
+    "src": "src/assets/board/b7.jpeg"
+  },
+  "src/assets/board/b9.jpeg": {
+    "file": "assets/b9-AgslZG6f.jpeg",
+    "src": "src/assets/board/b9.jpeg"
+  },
+  "src/assets/logo/logo1-dark.png": {
+    "file": "assets/logo1-dark-D22UL5Jg.png",
+    "src": "src/assets/logo/logo1-dark.png"
+  },
+  "src/assets/logo/logo1.png": {
+    "file": "assets/logo1-o_VzJ11u.png",
+    "src": "src/assets/logo/logo1.png"
+  },
+  "src/assets/logo/logo2-dark.png": {
+    "file": "assets/logo2-dark-BNzULp_8.png",
+    "src": "src/assets/logo/logo2-dark.png"
+  },
+  "src/assets/logo/logo2.png": {
+    "file": "assets/logo2-CM9q86NS.png",
+    "src": "src/assets/logo/logo2.png"
+  }
+}
