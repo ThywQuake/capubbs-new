@@ -1,18 +1,13 @@
 {
   "index.html": {
-    "file": "assets/index-Ddw9Jnwc.js",
+    "file": "assets/index-BK4NdQEr.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/index-5NLEp9Eg.css"
+      "assets/index-Df4hiubK.css"
     ],
     "assets": [
-      "assets/activity-BripO9VC.png",
-      "assets/logo1-o_VzJ11u.png",
-      "assets/logo2-CM9q86NS.png",
-      "assets/logo1-dark-D22UL5Jg.png",
-      "assets/logo2-dark-BNzULp_8.png",
       "assets/b1-BygyPBjp.jpeg",
       "assets/b2-uh-2lslB.jpeg",
       "assets/b3-Dsr0HnRB.jpeg",
@@ -21,7 +16,12 @@
       "assets/b6-GsF3RI0k.jpeg",
       "assets/b7-dddTyzB0.jpeg",
       "assets/b9-AgslZG6f.jpeg",
-      "assets/b28-CnHQTYdb.jpeg"
+      "assets/b28-CnHQTYdb.jpeg",
+      "assets/activity-BripO9VC.png",
+      "assets/logo1-o_VzJ11u.png",
+      "assets/logo2-CM9q86NS.png",
+      "assets/logo1-dark-D22UL5Jg.png",
+      "assets/logo2-dark-BNzULp_8.png"
     ]
   },
   "src/assets/activity/activity.png": {
