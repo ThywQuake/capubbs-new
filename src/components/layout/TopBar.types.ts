@@ -1,0 +1,36 @@
+import type { MouseEvent } from 'react';
+import type { LegacyBbsViewer } from '../../api/legacyBbsClient';
+import type { DirectConversation, ForumMessage, MessageCategory } from '../../types/forum';
+import type { OpenDirectConversationRequest } from '../../types/messages';
+
+export type TopBarProps = {
+  collapsed: boolean;
+  directConversations: DirectConversation[];
+  hasMoreReplies?: boolean;
+  isDark: boolean;
+  isLoadingMoreReplies?: boolean;
+  isMessagesLoading?: boolean;
+  isSessionRestoring?: boolean;
+  messages: ForumMessage[];
+  openDirectConversationRequest?: OpenDirectConversationRequest | null;
+  openMessagesRequest?: number;
+  logoClickPrompt?: string | null;
+  readingThreadTitle?: string;
+  readingThreadTitleVisible?: boolean;
+  searchPlaceholder?: string;
+  viewer: LegacyBbsViewer;
+  onCollapsedChange: (collapsed: boolean) => void;
+  onLogoClick?: (event: MouseEvent<HTMLAnchorElement>) => void;
+  onLogout: () => Promise<void>;
+  onLoadMessageConversation?: (conversationId: string) => Promise<void>;
+  onLoadMoreReplies?: () => Promise<void>;
+  onMarkMessageCategoryRead?: (category: MessageCategory) => void;
+  onMarkMessageConversationRead?: (conversationId: string) => void;
+  onMarkMessageRead?: (messageId: string) => void;
+  onOpenSidebar: () => void;
+  onRequestMessages?: () => void;
+  onReturnToTop: () => void;
+  onSendDirectMessage?: (conversationId: string, text: string) => Promise<void>;
+  onToggleDark: () => void;
+  unreadMessageCount?: number;
+};
